@@ -1,0 +1,2 @@
+#https://crontab.guru/examples.html
+0 */6 * * * /root/imhere2.sh
